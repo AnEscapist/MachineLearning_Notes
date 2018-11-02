@@ -2,9 +2,11 @@
 This is the notebook for Machine Learnig Coursera online course, instructed by Prof. Andrew Ng.
 
 # Content
-	1. Supervised Learning vs. Unsupervised Learning
-		1.1 Cost Function and Gradient Descent
-	2. Single variable and Multi-variables linear regression
+
+## 1. Supervised Learning vs. Unsupervised Learning
+	1.1 Cost Function and Gradient Descent
+	
+##2. Single variable and Multi-variables linear regression
 	3. Classification
 		3.1 Logistic Regression
 		3.2 Multiclass Classification
